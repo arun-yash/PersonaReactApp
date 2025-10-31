@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Manrope', sans-serif;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff9500 0%, #ff7700 100%);
   min-height: 100vh;
   padding: 40px 20px;
 }
@@ -83,7 +83,7 @@ body {
 .form-group input:focus,
 .form-group textarea:focus {
   outline: none;
-  border-color: #6a24ff;
+  border-color: #ff6600;
 }
 
 .form-group textarea {
@@ -124,7 +124,7 @@ body {
 .profile-name {
   font-size: 40px;
   font-weight: 800;
-  color: #6a24ff;
+  color: #ff6600;
   margin-bottom: 24px;
 }
 
@@ -221,7 +221,7 @@ body {
 
 .section-list li::before {
   content: "•";
-  color: #6a24ff;
+  color: #ff6600;
   font-size: 28px;
   font-weight: 800;
   flex-shrink: 0;
@@ -438,12 +438,12 @@ body {
 
 /* Header Row Styles */
 .header-row {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #ff9500 0%, #ff7700 100%);
   min-height: 120px;
 }
 
 .header-row .swimlane-label {
-  background: linear-gradient(135deg, #5568d3 0%, #653a8a 100%);
+  background: linear-gradient(135deg, #ff7700 0%, #e65100 100%);
   color: white;
 }
 
